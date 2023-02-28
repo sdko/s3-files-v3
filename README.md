@@ -6,13 +6,15 @@
 [![JavaScript Style Guide](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com/)
 
 
-Stream selected files from an Amazon s3 bucket/folder.
+Stream selected files from an Amazon s3 bucket/folder. 
+
+** THIS IS A FORK OF https://github.com/orangewise/s3-files with AWS SDK V3 LIB **
 
 
 ## Install
 
 ```
-npm install s3-files
+npm install s3-files-v3
 ```
 
 
